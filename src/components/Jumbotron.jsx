@@ -16,7 +16,7 @@ const handleLearnMore=()=>{
   return (
     <div className='jumbotron-section wrapper'>
       <h2 className='title'>New</h2>
-      <img className='logo' src={iPhone} alt='iPhone 14 Pro'/>
+      <img className='logo' src={iPhone} alt='iPhone 14 Pro' style={{mix-blend-mode:'color-burn'}}/>
       <p className='text'>Big and bigger.</p>
       <span className='description'>
         From $41.62/mo. for 24 mo. or $999 before trade-in
